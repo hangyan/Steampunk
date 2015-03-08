@@ -26,7 +26,7 @@ The Steampunk Index
 # Games
 
 ## FPS
-* [BioShock Infinite](https://www.bioshockinfinite.com/?RET=&ag=true) [wiki](http://en.wikipedia.org/wiki/BioShock_Infinite)   (PC,PS3,XBOX360) 
+* [BioShock Infinite](https://www.bioshockinfinite.com/?RET=&ag=true) ([wiki](http://en.wikipedia.org/wiki/BioShock_Infinite))   (PC,PS3,XBOX360) 
 
 
 ## Others
