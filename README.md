@@ -10,6 +10,7 @@ The Steampunk Index
   * [FPS](#fps)
   * [ARPG](#arpg)
   * [RPG](#rpg)
+  * [A-AVG](#a-avg)
   * [Others](#others)
 
   
@@ -35,6 +36,12 @@ The Steampunk Index
 
 ## RPG
 * [Bravely Default](http://bravelydefault.nintendo.com/)([wiki](http://en.wikipedia.org/wiki/Bravely_Default)) (Nintendo 3DS)
+* [Resonance of Fate](http://sega.jp/ps3/eoe/) (jp) (([wiki](http://en.wikipedia.org/wiki/Resonance_of_Fate)) (PSP3,XBOX360)
+
+## A-AVG
+* [Dishonored](http://www.dishonored.com/) ([wiki](http://en.wikipedia.org/wiki/Dishonored)) (PC,PSP3,XBOX360)
+* [The Legend of Zelda: Phantom Hourglass](http://www.zelda.com/phantomhourglass/) ([wiki](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Phantom_Hourglass)) (NDS)
+* [The Legend of Zelda: Spirit Tracks](http://www.zelda.com/spirittracks/) ([wiki](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Spirit_Tracks)) (NDS)
 
 ## Others
 * [Machinarium](http://machinarium.net/) (Win,Mac,Linux)
