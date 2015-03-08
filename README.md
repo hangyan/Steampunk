@@ -11,6 +11,7 @@ The Steampunk Index
   * [ARPG](#arpg)
   * [RPG](#rpg)
   * [A-AVG](#a-avg)
+  * [RTS](#rts)
   * [Others](#others)
 
   
@@ -37,11 +38,17 @@ The Steampunk Index
 ## RPG
 * [Bravely Default](http://bravelydefault.nintendo.com/)([wiki](http://en.wikipedia.org/wiki/Bravely_Default)) (Nintendo 3DS)
 * [Resonance of Fate](http://sega.jp/ps3/eoe/) (jp) (([wiki](http://en.wikipedia.org/wiki/Resonance_of_Fate)) (PSP3,XBOX360)
+* [Shining Force](http://www.shiningsource.org/) (([wiki](http://en.wikipedia.org/wiki/Shining_Force)) (PC,PSP3,XBOX360,iOS)
+* [Skies of Arcadia](http://www.mobygames.com/game/skies-of-arcadia) (([wiki](http://en.wikipedia.org/wiki/Skies_of_Arcadia)) (Dreamcast,GameCube)
 
 ## A-AVG
 * [Dishonored](http://www.dishonored.com/) ([wiki](http://en.wikipedia.org/wiki/Dishonored)) (PC,PSP3,XBOX360)
 * [The Legend of Zelda: Phantom Hourglass](http://www.zelda.com/phantomhourglass/) ([wiki](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Phantom_Hourglass)) (NDS)
 * [The Legend of Zelda: Spirit Tracks](http://www.zelda.com/spirittracks/) ([wiki](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Spirit_Tracks)) (NDS)
+
+## RTS
+* [Rise of Nations: Rise of Legends](http://www.mobygames.com/game/rise-of-nations-rise-of-legends) ([wiki](http://en.wikipedia.org/wiki/Rise_of_Nations:_Rise_of_Legends)) (PC)
+
 
 ## Others
 * [Machinarium](http://machinarium.net/) (Win,Mac,Linux)
@@ -49,6 +56,5 @@ The Steampunk Index
 * [Torchlight](http://www.torchlightgame.com/) (Win)
 * [Torchlight II](http://www.torchlight2game.com/) (Win)
 * [Thief: The Dark Project](http://en.wikipedia.org/wiki/Thief:_The_Dark_Project) (Win)
-* [Skies of Arcadia](http://en.wikipedia.org/wiki/Skies_of_Arcadia)
 * [American McGee's Alice](http://en.wikipedia.org/wiki/American_McGee's_Alice) (PC,XBOX360,PSP3)
 * [Alice: Madness Returns](http://en.wikipedia.org/wiki/Alice:_Madness_Returns) (PC,XBOX360,PSP3)
