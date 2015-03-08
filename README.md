@@ -2,7 +2,7 @@
 The Steampunk Index
 
 # Menu
-* [Introduction](#introduction]
+* [Introduction](#introduction)
 * [Websites](#websites)
 * [Moives](#moives)
 * [Books](#books)
@@ -18,7 +18,7 @@ The Steampunk Index
   
 
 # Introduction
-* [Steampunk](http://en.wikipedia.org/wiki/Steampunk) (Wikipedia)
+* [Steampunk](http://en.wikipedia.org/wiki/Steampunk) (wiki)
 
 # Websites
 * [steampunk.com](http://www.steampunk.com/) ( An online home for the Steampunk movement in all its manifestations)
@@ -28,11 +28,11 @@ The Steampunk Index
 * [HRM Steampunk](http://hrmsteam.com/)
 
 # Moives
-* [From the Earth to the Moon](http://www.imdb.com/title/tt0051638/) ([wiki](http://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(film)) (1958, Technicolor science fiction)
-* [The City of Lost Children](http://www.sonypictures.com/movies/thecityoflostchildren/) ([wiki](http://en.wikipedia.org/wiki/The_City_of_Lost_Children),[IMDB](http://www.imdb.com/title/tt0112682/)) (1995,science fantasy drama)
-* [The Golden Compass](http://www.imdb.com/title/tt0385752/)([wiki](http://en.wikipedia.org/wiki/The_Golden_Compass_(film)) (2007, fantasy-adventure)
-* [The Extraordinary Adventures of Adèle Blanc-Sec ](http://www.imdb.com/title/tt1179025/) ([wiki](http://en.wikipedia.org/wiki/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film)) (2010,fantasy adventure feature)
-* [Hugo](http://www.hugomovie.com/) ([wiki](http://en.wikipedia.org/wiki/Hugo_(film))) (2011,3D historical adventure drama)
+* [From the Earth to the Moon](http://www.imdb.com/title/tt0051638/) ([wiki](http://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(film))) (1958, Technicolor science fiction)
+* [The City of Lost Children](http://www.sonypictures.com/movies/thecityoflostchildren/) ([wiki](http://en.wikipedia.org/wiki/The_City_of_Lost_Children),[imdb](http://www.imdb.com/title/tt0112682/)) (1995,science fantasy drama)
+* [The Golden Compass](http://www.imdb.com/title/tt0385752/)([wiki](http://en.wikipedia.org/wiki/The_Golden_Compass_(film))) (2007, fantasy-adventure)
+* [The Extraordinary Adventures of Adèle Blanc-Sec ](http://www.imdb.com/title/tt1179025/) ([wiki](http://en.wikipedia.org/wiki/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film))) (2010,fantasy adventure feature)
+* [Hugo](http://www.hugomovie.com/) ([wiki](http://en.wikipedia.org/wiki/Hugo_(film)),[imdb](http://www.imdb.com/title/tt0970179/)) (2011,3D historical adventure drama)
 * [Dood van een Schaduw](http://www.imdb.com/title/tt2312702/) ([wiki](http://en.wikipedia.org/wiki/Dood_van_een_Schaduw)) (2012,fantasy short)
 * [Hansel & Gretel: Witch Hunters](http://www.imdb.com/title/tt1428538/) ([wiki](http://en.wikipedia.org/wiki/Hansel_%26_Gretel:_Witch_Hunters)) (2013,3D action-horror comedy)
 * [Frankenstein's Army](http://www.imdb.com/title/tt1925435/) ([wiki](http://en.wikipedia.org/wiki/Frankenstein%27s_Army)) (2013,found-footage horror)
