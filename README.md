@@ -10,6 +10,7 @@ The Steampunk Index
   * [FPS](#fps)
   * [ARPG](#arpg)
   * [RPG](#rpg)
+  * [AVG](#avg)
   * [A-AVG](#a-avg)
   * [RTS](#rts)
   * [Others](#others)
@@ -22,8 +23,19 @@ The Steampunk Index
 # Websites
 * [steampunk.com](http://www.steampunk.com/) ( An online home for the Steampunk movement in all its manifestations)
 * [steampunkworkshop.com](http://steampunkworkshop.com) 
+* [Steampunk Cruise](http://steampunkcruise.com/)
+* [Steampunk Magazine](http://www.steampunkmagazine.com/)
+* [HRM Steampunk](http://hrmsteam.com/)
 
 # Moives
+* [From the Earth to the Moon](http://www.imdb.com/title/tt0051638/) ([wiki](http://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(film)) (1958, Technicolor science fiction)
+* [The City of Lost Children](http://www.sonypictures.com/movies/thecityoflostchildren/) ([wiki](http://en.wikipedia.org/wiki/The_City_of_Lost_Children),[IMDB](http://www.imdb.com/title/tt0112682/)) (1995,science fantasy drama)
+* [The Golden Compass](http://www.imdb.com/title/tt0385752/)([wiki](http://en.wikipedia.org/wiki/The_Golden_Compass_(film)) (2007, fantasy-adventure)
+* [The Extraordinary Adventures of Adèle Blanc-Sec ](http://www.imdb.com/title/tt1179025/) ([wiki](http://en.wikipedia.org/wiki/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film)) (2010,fantasy adventure feature)
+* [Hugo](http://www.hugomovie.com/) ([wiki](http://en.wikipedia.org/wiki/Hugo_(film))) (2011,3D historical adventure drama)
+* [Dood van een Schaduw](http://www.imdb.com/title/tt2312702/) ([wiki](http://en.wikipedia.org/wiki/Dood_van_een_Schaduw)) (2012,fantasy short)
+* [Hansel & Gretel: Witch Hunters](http://www.imdb.com/title/tt1428538/) ([wiki](http://en.wikipedia.org/wiki/Hansel_%26_Gretel:_Witch_Hunters)) (2013,3D action-horror comedy)
+* [Frankenstein's Army](http://www.imdb.com/title/tt1925435/) ([wiki](http://en.wikipedia.org/wiki/Frankenstein%27s_Army)) (2013,found-footage horror)
 
 # Books
 
@@ -37,9 +49,12 @@ The Steampunk Index
 
 ## RPG
 * [Bravely Default](http://bravelydefault.nintendo.com/)([wiki](http://en.wikipedia.org/wiki/Bravely_Default)) (Nintendo 3DS)
-* [Resonance of Fate](http://sega.jp/ps3/eoe/) (jp) (([wiki](http://en.wikipedia.org/wiki/Resonance_of_Fate)) (PSP3,XBOX360)
-* [Shining Force](http://www.shiningsource.org/) (([wiki](http://en.wikipedia.org/wiki/Shining_Force)) (PC,PSP3,XBOX360,iOS)
-* [Skies of Arcadia](http://www.mobygames.com/game/skies-of-arcadia) (([wiki](http://en.wikipedia.org/wiki/Skies_of_Arcadia)) (Dreamcast,GameCube)
+* [Resonance of Fate](http://sega.jp/ps3/eoe/) (jp) ([wiki](http://en.wikipedia.org/wiki/Resonance_of_Fate)) (PSP3,XBOX360)
+* [Shining Force](http://www.shiningsource.org/) ([wiki](http://en.wikipedia.org/wiki/Shining_Force)) (PC,PSP3,XBOX360,iOS)
+* [Skies of Arcadia](http://www.mobygames.com/game/skies-of-arcadia) ([wiki](http://en.wikipedia.org/wiki/Skies_of_Arcadia)) (Dreamcast,GameCube)
+
+## AVG
+* [Syberia](http://www.syberia.microids.com/EN/) ([wiki](http://en.wikipedia.org/wiki/Syberia)) (Android,iOS,Mac,NDS,PSP2,Win,WP,XBOX,XBOX360)
 
 ## A-AVG
 * [Dishonored](http://www.dishonored.com/) ([wiki](http://en.wikipedia.org/wiki/Dishonored)) (PC,PSP3,XBOX360)
