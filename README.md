@@ -29,7 +29,10 @@ The Steampunk Index
 
 # Moives
 * [From the Earth to the Moon](http://www.imdb.com/title/tt0051638/) ([wiki](http://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(film))) (1958, Technicolor science fiction)
+* [Master of the World](http://www.imdb.com/title/tt0055152/) ([wiki](http://en.wikipedia.org/wiki/Master_of_the_World_(1961_film))) (1961, science fiction)
+* [The Island at the Top of the World](http://movies.disney.com/the-island-at-the-top-of-the-world) ([wiki](http://en.wikipedia.org/wiki/The_Island_at_the_Top_of_the_World),[imdb](http://www.imdb.com/title/tt0071671/)) (1974)
 * [The City of Lost Children](http://www.sonypictures.com/movies/thecityoflostchildren/) ([wiki](http://en.wikipedia.org/wiki/The_City_of_Lost_Children),[imdb](http://www.imdb.com/title/tt0112682/)) (1995,science fantasy drama)
+* [The League of Extraordinary Gentlemen](http://www.imdb.com/title/tt0311429/) ([wiki](http://en.wikipedia.org/wiki/The_League_of_Extraordinary_Gentlemen_(film))) (2003, superhero)
 * [The Golden Compass](http://www.imdb.com/title/tt0385752/)([wiki](http://en.wikipedia.org/wiki/The_Golden_Compass_(film))) (2007, fantasy-adventure)
 * [The Extraordinary Adventures of Adèle Blanc-Sec ](http://www.imdb.com/title/tt1179025/) ([wiki](http://en.wikipedia.org/wiki/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film))) (2010,fantasy adventure feature)
 * [Hugo](http://www.hugomovie.com/) ([wiki](http://en.wikipedia.org/wiki/Hugo_(film)),[imdb](http://www.imdb.com/title/tt0970179/)) (2011,3D historical adventure drama)
