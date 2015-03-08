@@ -8,6 +8,8 @@ The Steampunk Index
 * [Books](#books)
 * [Games](#games)
   * [FPS](#fps)
+  * [ARPG](#arpg)
+  * [RPG](#rpg)
   * [Others](#others)
 
   
@@ -28,6 +30,11 @@ The Steampunk Index
 ## FPS
 * [BioShock Infinite](https://www.bioshockinfinite.com/?RET=&ag=true) ([wiki](http://en.wikipedia.org/wiki/BioShock_Infinite))   (PC,PS3,XBOX360) 
 
+## ARPG
+* [Dark Chronicle](http://darkcloud.wikia.com/wiki/Dark_Cloud_2) ([wiki](http://en.wikipedia.org/wiki/Dark_Chronicle)) (PSP2)
+
+## RPG
+* [Bravely Default](http://bravelydefault.nintendo.com/)([wiki](http://en.wikipedia.org/wiki/Bravely_Default)) (Nintendo 3DS)
 
 ## Others
 * [Machinarium](http://machinarium.net/) (Win,Mac,Linux)
