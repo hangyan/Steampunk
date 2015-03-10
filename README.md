@@ -17,7 +17,7 @@ The Steampunk Index
   * [RTS](#rts)
   * [Others](#others)
 * [Clothing](#clothing)
-* [Blogs](#blogs)
+* [Blog Posts](#blog-posts)
 
 
   
@@ -66,7 +66,20 @@ The Steampunk Index
 * [Frankenstein's Army](http://www.imdb.com/title/tt1925435/) ([wiki](http://en.wikipedia.org/wiki/Frankenstein%27s_Army)) (2013,found-footage horror)
 
 # Books
+* [The Difference Engine](http://en.wikipedia.org/wiki/The_Difference_Engine)
+  (1990,by [William Gibson](http://en.wikipedia.org/wiki/William_Gibson) and
+  [Bruce Sterling](http://en.wikipedia.org/wiki/Bruce_Sterling), alternate
+  history novel) 
+*
+  [Steampunk II: Steampunk Reloaded](http://www.goodreads.com/book/show/8129662-steampunk-ii)
+  (2010,by [Ann VanderMeer](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnn_VanderMeer&ei=-J3-VNO4HY2oogSqi4LoDg&usg=AFQjCNEBxoRoXbgUFW5X2NRwI1HbqaEIyg))
+* [Tucker Teaches the Clockies to Copulate](http://www.goodreads.com/book/show/13492671-tucker-teaches-the-clockies-to-copulate)
+  (2011,by [David Erik Nelson](http://davideriknelson.com/))
 
+* [Steampunk III: Steampunk Revolution](http://www.goodreads.com/book/show/15806684-steampunk-iii)
+  (2012,by [Ann VanderMeer](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnn_VanderMeer&ei=-J3-VNO4HY2oogSqi4LoDg&usg=AFQjCNEBxoRoXbgUFW5X2NRwI1HbqaEIyg))
+
+* []
 
 # Games
 
@@ -105,7 +118,7 @@ The Steampunk Index
 
 
 
-# Blogs
+# Blog Posts
 * [6 Mind-Blowing Ways to Wear Your Steampunk Goggles](http://steampunk.wonderhowto.com/inspiration/6-mind-blowing-ways-wear-your-steampunk-goggles-0144022/)
 * [24hrs With a Steampunk Aeronaut – Narrative Showcase](http://www.noupe.com/inspiration/showcases/24hrs-with-a-steampunk-aeronaut-narrative-showcase.html)
 * [Abraham Lincoln’s Steampunk Presidency](http://www.slate.com/articles/technology/history_of_innovation/2014/05/abraham_lincoln_steampunk_president_oversaw_fantastic_innovation.html)
