@@ -4,6 +4,8 @@ The Steampunk Index
 # Menu
 * [Introduction](#introduction)
 * [Websites](#websites)
+* [People](#people)
+  * [Artist](#artist)
 * [Moives](#moives)
 * [Books](#books)
 * [Games](#games)
@@ -14,6 +16,9 @@ The Steampunk Index
   * [A-AVG](#a-avg)
   * [RTS](#rts)
   * [Others](#others)
+* [Clothing](#clothing)
+* [Blogs](#blogs)
+
 
   
 
@@ -21,11 +26,18 @@ The Steampunk Index
 * [Steampunk](http://en.wikipedia.org/wiki/Steampunk) (wiki)
 
 # Websites
-* [steampunk.com](http://www.steampunk.com/) ( An online home for the Steampunk movement in all its manifestations)
-* [steampunkworkshop.com](http://steampunkworkshop.com) 
+* [Steampunk](http://www.steampunk.com/) ( An online home for the Steampunk movement in all its manifestations)
+* [Steampunk Museum](http://www.thesteampunkmuseum.com/index.html)
+* [SteampunkWorkshop](http://steampunkworkshop.com) 
 * [Steampunk Cruise](http://steampunkcruise.com/)
 * [Steampunk Magazine](http://www.steampunkmagazine.com/)
 * [HRM Steampunk](http://hrmsteam.com/)
+* [James Ng Art](http://www.jamesngart.com/)
+
+# People
+## Artist
+* [James Ng](http://www.thesteampunkmuseum.com/1003%20James%20Ng%20Exhibit.html) (Hong Kong)
+
 
 # Moives
 * [From the Earth to the Moon](http://www.imdb.com/title/tt0051638/) ([wiki](http://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(film))) (1958, Technicolor science fiction)
@@ -34,6 +46,7 @@ The Steampunk Index
 * [The Island at the Top of the World](http://movies.disney.com/the-island-at-the-top-of-the-world) ([wiki](http://en.wikipedia.org/wiki/The_Island_at_the_Top_of_the_World),[imdb](http://www.imdb.com/title/tt0071671/)) (1974)
 * [Steam Trek: The Moving Picture](http://steamtrek.blogspot.com/) ([wiki](http://en.wikipedia.org/wiki/Steam_Trek:_The_Moving_Picture),[youtube](https://www.youtube.com/watch?v=PCUVT4bi4dU)) (1994, fan film that was made by fans of original Star Trek)
 * [The City of Lost Children](http://www.sonypictures.com/movies/thecityoflostchildren/) ([wiki](http://en.wikipedia.org/wiki/The_City_of_Lost_Children),[imdb](http://www.imdb.com/title/tt0112682/)) (1995,science fantasy drama)
+* [Wild Wild West](http://www.imdb.com/title/tt0120891/) ([wiki](http://en.wikipedia.org/wiki/Wild_Wild_West)) (1999, steampunk western action-comedy)
 * [Vidocq](http://www.imdb.com/title/tt0164961/) ([wiki](http://en.wikipedia.org/wiki/Vidocq_(2001_film))) (2001, mystery)
 * [The League of Extraordinary Gentlemen](http://www.imdb.com/title/tt0311429/) ([wiki](http://en.wikipedia.org/wiki/The_League_of_Extraordinary_Gentlemen_(film))) (2003, superhero)
 * [Steamboy](http://www.steamboy.net/intro.shtml)([wiki](http://en.wikipedia.org/wiki/Steamboy),[imdb](http://www.imdb.com/title/tt0348121/)) (2004, steampunk animated action)
@@ -45,12 +58,15 @@ The Steampunk Index
 * [The Extraordinary Adventures of Adèle Blanc-Sec ](http://www.imdb.com/title/tt1179025/) ([wiki](http://en.wikipedia.org/wiki/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film))) (2010,fantasy adventure feature)
 * [Sherlock Holmes](http://www.imdb.com/title/tt1522835/) ([wiki](http://en.wikipedia.org/wiki/Sherlock_Holmes_(2010_film))) (2010, mystery)
 * [Hugo](http://www.hugomovie.com/) ([wiki](http://en.wikipedia.org/wiki/Hugo_(film)),[imdb](http://www.imdb.com/title/tt0970179/)) (2011,3D historical adventure drama)
+* [The Three Musketeers](http://www.threemusketeers-movie.com/)  ([wiki](http://en.wikipedia.org/wiki/The_Three_Musketeers_(2011_film)),[imdb](http://www.imdb.com/title/tt1509767/)) (2011, 3D adventure)
 * [Sherlock Holmes: A Game of Shadows](http://sherlockholmes2.warnerbros.com/) ([wiki](http://en.wikipedia.org/wiki/Sherlock_Holmes:_A_Game_of_Shadows),[imdb](http://www.imdb.com/title/tt1515091/)) (2011, action mystery)
 * [Dood van een Schaduw](http://www.imdb.com/title/tt2312702/) ([wiki](http://en.wikipedia.org/wiki/Dood_van_een_Schaduw)) (2012,fantasy short)
+* [War of the Worlds: Goliath](http://www.wotw-goliath.com/)  ([wiki](http://en.wikipedia.org/wiki/War_of_the_Worlds:_Goliath),[imdb](http://www.imdb.com/title/tt2320924/)) (2012, animated science fiction)
 * [Hansel & Gretel: Witch Hunters](http://www.imdb.com/title/tt1428538/) ([wiki](http://en.wikipedia.org/wiki/Hansel_%26_Gretel:_Witch_Hunters)) (2013,3D action-horror comedy)
 * [Frankenstein's Army](http://www.imdb.com/title/tt1925435/) ([wiki](http://en.wikipedia.org/wiki/Frankenstein%27s_Army)) (2013,found-footage horror)
 
 # Books
+
 
 # Games
 
@@ -86,3 +102,10 @@ The Steampunk Index
 * [Thief: The Dark Project](http://en.wikipedia.org/wiki/Thief:_The_Dark_Project) (Win)
 * [American McGee's Alice](http://en.wikipedia.org/wiki/American_McGee's_Alice) (PC,XBOX360,PSP3)
 * [Alice: Madness Returns](http://en.wikipedia.org/wiki/Alice:_Madness_Returns) (PC,XBOX360,PSP3)
+
+
+
+# Blogs
+* [6 Mind-Blowing Ways to Wear Your Steampunk Goggles](http://steampunk.wonderhowto.com/inspiration/6-mind-blowing-ways-wear-your-steampunk-goggles-0144022/)
+* [24hrs With a Steampunk Aeronaut – Narrative Showcase](http://www.noupe.com/inspiration/showcases/24hrs-with-a-steampunk-aeronaut-narrative-showcase.html)
+* [Abraham Lincoln’s Steampunk Presidency](http://www.slate.com/articles/technology/history_of_innovation/2014/05/abraham_lincoln_steampunk_president_oversaw_fantastic_innovation.html)
