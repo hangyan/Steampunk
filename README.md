@@ -8,6 +8,7 @@ The Steampunk Index
   * [Artist](#artist)
 * [Moives](#moives)
 * [Books](#books)
+* [Creations](#creations)
 * [Games](#games)
   * [FPS](#fps)
   * [ARPG](#arpg)
@@ -16,8 +17,8 @@ The Steampunk Index
   * [A-AVG](#a-avg)
   * [RTS](#rts)
   * [Others](#others)
-* [Clothing](#clothing)
 * [Blog Posts](#blog-posts)
+* [Pinterest](#pinterest)
 
 
   
@@ -103,6 +104,10 @@ The Steampunk Index
 * [Kris Kuksi: Divination and Delusion](http://www.goodreads.com/book/show/10460778-kris-kuksi) (2013,by [Kris Kuksi]((http://kuksi.com), Jon Beinart)
 * [Ada](http://www.amazon.fr/Ada-Masaki-Yamada/dp/233003041X) (2014,by [Masaki Yamada](http://en.wikipedia.org/wiki/Masaki_Yamada))
 
+# Creations
+* [Corey Wolfe](http://www.coreywolfe.com/steampunk/)
+
+
 
 # Games
 
@@ -111,6 +116,8 @@ The Steampunk Index
 
 ## ARPG
 * [Dark Chronicle](http://darkcloud.wikia.com/wiki/Dark_Cloud_2) ([wiki](http://en.wikipedia.org/wiki/Dark_Chronicle)) (PSP2)
+* [Torchlight](http://www.torchlightgame.com/) ([wiki](http://en.wikipedia.org/wiki/Torchlight))(Win)
+* [Torchlight II](http://www.torchlight2game.com/) ([wiki](http://en.wikipedia.org/wiki/Torchlight_II))(Win)
 
 ## RPG
 * [Bravely Default](http://bravelydefault.nintendo.com/)([wiki](http://en.wikipedia.org/wiki/Bravely_Default)) (Nintendo 3DS)
@@ -131,13 +138,11 @@ The Steampunk Index
 
 
 ## Others
-* [Machinarium](http://machinarium.net/) (Win,Mac,Linux)
-* [Professor Layton series](http://professorlayton.nintendo.com/) (Nintendo DS)
-* [Torchlight](http://www.torchlightgame.com/) (Win)
-* [Torchlight II](http://www.torchlight2game.com/) (Win)
-* [Thief: The Dark Project](http://en.wikipedia.org/wiki/Thief:_The_Dark_Project) (Win)
-* [American McGee's Alice](http://en.wikipedia.org/wiki/American_McGee's_Alice) (PC,XBOX360,PSP3)
-* [Alice: Madness Returns](http://en.wikipedia.org/wiki/Alice:_Madness_Returns) (PC,XBOX360,PSP3)
+* [Machinarium](http://machinarium.net/) ([wiki](http://en.wikipedia.org/wiki/Machinarium)) (Win,Mac,Linux)
+* [Professor Layton series](http://professorlayton.nintendo.com/) ([wiki](http://en.wikipedia.org/wiki/Professor_Layton)) (Nintendo DS)
+* [Thief: The Dark Project](http://en.wikipedia.org/wiki/Thief:_The_Dark_Project) ([wiki](http://en.wikipedia.org/wiki/Thief:_The_Dark_Project))(Win)
+* [American McGee's Alice](http://en.wikipedia.org/wiki/American_McGee's_Alice) ([wiki](http://en.wikipedia.org/wiki/American_McGee's_Alice)) (PC,XBOX360,PSP3)
+* [Alice: Madness Returns](http://en.wikipedia.org/wiki/Alice:_Madness_Returns) ([wiki](http://en.wikipedia.org/wiki/Alice:_Madness_Returns)) (PC,XBOX360,PSP3)
 
 
 
@@ -145,3 +150,15 @@ The Steampunk Index
 * [6 Mind-Blowing Ways to Wear Your Steampunk Goggles](http://steampunk.wonderhowto.com/inspiration/6-mind-blowing-ways-wear-your-steampunk-goggles-0144022/)
 * [24hrs With a Steampunk Aeronaut – Narrative Showcase](http://www.noupe.com/inspiration/showcases/24hrs-with-a-steampunk-aeronaut-narrative-showcase.html)
 * [Abraham Lincoln’s Steampunk Presidency](http://www.slate.com/articles/technology/history_of_innovation/2014/05/abraham_lincoln_steampunk_president_oversaw_fantastic_innovation.html)
+* [Victorian Steampunk Wedding](http://ruffledblog.com/victorian-steampunk-wedding/)
+* [Adding a Multicultural Touch to Steampunk Without Being an Insensitive Clod](http://steampunk.wonderhowto.com/how-to/adding-multicultural-touch-steampunk-without-being-insensitive-clod-0141367/)
+* [How to Create a Steampunk Persona](http://steampunk.wonderhowto.com/how-to/create-steampunk-persona-0138997/)
+* [Steampunk Fashion, Unique Clothing Design](http://cosmeticsideas.com/steampunk-fashion/)
+* [The Best, Coolest & Sexiest Steampunk Clothing & Costumes](http://awayandaway.com/the-best-coolest-sexiest-steampunk-clothing-costumes/)
+
+# Pinterest
+* [Steampunk art](https://www.pinterest.com/hot4art/steampunk-art/)
+* [SteamPunk](https://www.pinterest.com/henriqvist/steampunk/)
+* [h](https://www.pinterest.com/cindeebeez/steampunk/)
+* [Steampunk Mens Clothing](https://www.pinterest.com/explore/steampunk-mens-clothing/)
+* [Hosung Jin](https://www.pinterest.com/hosungj/steampunk/)
