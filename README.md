@@ -21,6 +21,7 @@ The Steampunk Index
 * [Pinterest](#pinterest)
 * [Videos](#videos)
   * [DIY](#diy)
+  * [Music](#music)
 
 
   
@@ -168,6 +169,7 @@ The Steampunk Index
 * [I Never Knew Goggles Could Be So Hot: 30 Beautiful Steampunk Girls](http://www.incredibomb.com/2014/04/i-never-knew-goggles-could-turn-me-on-so-much-30-beautiful-steampunk-girls/)
 * [10 Steampunk Titles You Should Know About](https://inkashlings.wordpress.com/2013/02/14/10-steampunk-titles-you-should-know-about/)
 * [Steampunk Costume Ideas](http://www.costume-works.com/steampunk-costume-ideas.html#_)
+* [Steampunk Star Wars Illustrations by Björn Hurri](http://conceptartworld.com/?p=15093)
 
 # Pinterest
 * [Lindsay](https://www.pinterest.com/hot4art/steampunk-art/)
@@ -184,7 +186,9 @@ The Steampunk Index
 * [Vintage Steampunk](https://www.pinterest.com/twlight54/vintage-steampunk/)
 * [Kenneth Linge](https://www.pinterest.com/kennethlinge/steampunk-k/)
 * [Steam punk Princess..](https://www.pinterest.com/vintagehappines/steam-punk-princess/)
-
+* [Karl Whitmore](https://www.pinterest.com/banderbear/steampunk/)
+* [Steampunk Hair](https://www.pinterest.com/Doctoredlocks/steampunk-hair/)
+* [CindyMermaidRella Cooper](https://www.pinterest.com/CindyMermaid/steampunk-a-rella/)
 
 # Videos
 ## DIY
