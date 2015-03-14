@@ -33,6 +33,7 @@ The Steampunk Index
 * [Steampunk Magazine](http://www.steampunkmagazine.com/)
 * [HRM Steampunk](http://hrmsteam.com/)
 * [James Ng Art](http://www.jamesngart.com/)
+* [Steampunk Emporium](http://www.steampunkemporium.com/steam.php)
 
 # People
 ## Artist
@@ -72,7 +73,9 @@ The Steampunk Index
 * [The Difference Engine](http://en.wikipedia.org/wiki/The_Difference_Engine)
   (1990,by [William Gibson](http://en.wikipedia.org/wiki/William_Gibson) and
   [Bruce Sterling](http://en.wikipedia.org/wiki/Bruce_Sterling), alternate
-  history novel) 
+  history novel)
+* [Gurps Steampunk](http://www.goodreads.com/book/show/1391699.Gurps_Steampunk)(2000,by  William H. Stoddard)
+* [Device, Vol. 1: Fantastic Contraption](http://www.amazon.com/Device-Vol-1-Fantastic-Contraption/dp/160010326X)(2008,by Gregory Brotherton, Ashley Wood, Stephanie Halleux, Viktor Koen, Christopher Conte, Mike Libby, Nemo Gould, Gareth Branwyn)
 * [Steampunk](http://www.goodreads.com/book/show/2246092.Steampunk) (2008,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
 * [Leviathan](http://en.wikipedia.org/wiki/Leviathan_(Westerfeld_novel)) (2009, by[Scott Westerfeld](http://en.wikipedia.org/wiki/Scott_Westerfeld), biopunk/steampunk)
 * [Steampunk Style Jewelry: Victorian, Fantasy, and Mechanical Necklaces, Bracelets, and Earrings](http://www.barnesandnoble.com/w/steampunk-style-jewelry-jean-campbell/1116891982?ean=9781589234758) (2010,by  Jean Campbell)
@@ -82,6 +85,7 @@ The Steampunk Index
 * [Tucker Teaches the Clockies to Copulate](http://www.goodreads.com/book/show/13492671-tucker-teaches-the-clockies-to-copulate)
   (2011,by [David Erik Nelson](http://davideriknelson.com/))
 * [Steampunk: The Art of Victorian Futurism](http://www.goodreads.com/book/show/8459998-steampunk) (2011,by Jay Strongman)
+* [Steampunk Emporium: Creating Fantastical Jewelry, Devices and Oddments from Assorted Cogs, Gears and Curios](http://www.goodreads.com/book/show/9265619-steampunk-emporium)(2011,by  Jema 'Emilly Ladybird' Hewitt)
 * [The Art of Steampunk](http://www.goodreads.com/book/show/9708869-the-art-of-steampunk) (2011,by [Art Donovan](http://donovandesign.artspan.com/), G.D.Falksen,Jim Bennett)
 * [Steampunk Sourcebook](http://www.barnesandnoble.com/w/steampunk-sourcebook-m-c-waldrep/1101125711?ean=9780486481111) (2011, by M.c. Waldrep)
 * [The Steam­punk Bible: An Illus­trated Guide to the World of Imag­i­nary Air­ships, Corsets and Gog­gles, Mad Sci­en­tists, and Strange Literature](http://steampunkbible.com/)
@@ -89,9 +93,13 @@ The Steampunk Index
 * [How to Draw Steampunk: Discover the secrets to drawing, painting, and illustrating the curious world of science fiction in the Victorian Age](http://www.goodreads.com/book/show/10398334-how-to-draw-steampunk)
   (2011,by  Joey Marsocci, Joey Marsocci, Alison DeBlasio, Allison DeBlasio)
 * [1,000 Steampunk Creations: Neo-Victorian Fashion, Gear, and Art](http://www.goodreads.com/book/show/9432169-1-000-steampunk-creations) (2011,by Grymm, Barbe Saint John, Joey Marsocci)
+* [The Immersion Book of Steampunk](http://www.goodreads.com/book/show/12603677-the-immersion-book-of-steampunk)(2011,by  Gareth D. Jones (Goodreads Author) (Editor), Carmelo Rafala, G.D. Falksen (Goodreads Author), Paul Di Filippo, Elizabeth Counihan (Goodreads Author), Tanith Lee, Aliette de Bodard (Goodreads Author), Chris Butler (Goodreads Author) , James Targett (Goodreads Author), Jacques Barcia, Gord Sellar, Anatoly Belilovsky (Goodreads Author), Toby Frost, Lavie Tidhar …)
+* [Steampunk Gear, Gadgets, and Gizmos: A Maker's Guide to Creating Modern Artifacts](http://www.goodreads.com/book/show/11669346-steampunk-gear-gadgets-and-gizmos) (2011,by  Thomas Willeford)
 * [Steampunk III: Steampunk Revolution](http://www.goodreads.com/book/show/15806684-steampunk-iii)
   (2012,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
 * [Steampunk: A Complete Guide to Victorian Techno-Fetishism](http://www.goodreads.com/book/show/11580378-steampunk)(2012,by  Vienna Von Schwarz)
+* [Drawing Steampunk: How to Illustrate Your Own Fantastical Contraptions, Imaginative Devices, and Neo-Victorian Fashions](http://www.goodreads.com/book/show/11766371-drawing-steampunk) (2012,by Jonathan Buck)
+* [Steampunk: An Illustrated History of Fantastical Fiction, Fanciful Film and Other Victorian Visions](http://www.goodreads.com/book/show/13590861-steampunk)(2012,by Brian J. Robb)
 * [Kris Kuksi: Divination and Delusion](http://www.goodreads.com/book/show/10460778-kris-kuksi) (2013,by [Kris Kuksi]((http://kuksi.com), Jon Beinart)
 * [Ada](http://www.amazon.fr/Ada-Masaki-Yamada/dp/233003041X) (2014,by [Masaki Yamada](http://en.wikipedia.org/wiki/Masaki_Yamada))
 
