@@ -79,8 +79,8 @@ The Steampunk Index
   (2011,by [David Erik Nelson](http://davideriknelson.com/))
 * [Steampunk III: Steampunk Revolution](http://www.goodreads.com/book/show/15806684-steampunk-iii)
   (2012,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
+* [Kris Kuksi: Divination and Delusion](2013,by [Kris Kuksi](http://kuksi.com/) and  Jon Beinart)
 
-* []
 
 # Games
 
