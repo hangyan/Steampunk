@@ -66,24 +66,35 @@ The Steampunk Index
 * [Frankenstein's Army](http://www.imdb.com/title/tt1925435/) ([wiki](http://en.wikipedia.org/wiki/Frankenstein%27s_Army)) (2013,found-footage horror)
 
 # Books
+* [The Steam House](http://en.wikipedia.org/wiki/The_Steam_House) (1880,by [Jules Verne](http://en.wikipedia.org/wiki/Jules_Verne),)
+* [The Anubis Gates](http://en.wikipedia.org/wiki/The_Anubis_Gates) (1983,by
+  [Tim Powers](http://en.wikipedia.org/wiki/Tim_Powers), time travel fantasy)
 * [The Difference Engine](http://en.wikipedia.org/wiki/The_Difference_Engine)
   (1990,by [William Gibson](http://en.wikipedia.org/wiki/William_Gibson) and
   [Bruce Sterling](http://en.wikipedia.org/wiki/Bruce_Sterling), alternate
   history novel) 
 * [Steampunk](http://www.goodreads.com/book/show/2246092.Steampunk) (2008,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
 * [Leviathan](http://en.wikipedia.org/wiki/Leviathan_(Westerfeld_novel)) (2009, by[Scott Westerfeld](http://en.wikipedia.org/wiki/Scott_Westerfeld), biopunk/steampunk)
+* [Steampunk Style Jewelry: Victorian, Fantasy, and Mechanical Necklaces, Bracelets, and Earrings](http://www.barnesandnoble.com/w/steampunk-style-jewelry-jean-campbell/1116891982?ean=9781589234758) (2010,by  Jean Campbell)
 * [Behemoth](http://en.wikipedia.org/wiki/Behemoth_(Westerfield_novel)) (2010, by[Scott Westerfeld](http://en.wikipedia.org/wiki/Scott_Westerfeld), second installment in the Leviathan series)
 * [Steampunk II: Steampunk Reloaded](http://www.goodreads.com/book/show/8129662-steampunk-ii)
   (2010,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
 * [Tucker Teaches the Clockies to Copulate](http://www.goodreads.com/book/show/13492671-tucker-teaches-the-clockies-to-copulate)
   (2011,by [David Erik Nelson](http://davideriknelson.com/))
+* [Steampunk: The Art of Victorian Futurism](http://www.goodreads.com/book/show/8459998-steampunk) (2011,by Jay Strongman)
+* [The Art of Steampunk](http://www.goodreads.com/book/show/9708869-the-art-of-steampunk) (2011,by [Art Donovan](http://donovandesign.artspan.com/), G.D.Falksen,Jim Bennett)
+* [Steampunk Sourcebook](http://www.barnesandnoble.com/w/steampunk-sourcebook-m-c-waldrep/1101125711?ean=9780486481111) (2011, by M.c. Waldrep)
 * [The Steam­punk Bible: An Illus­trated Guide to the World of Imag­i­nary Air­ships, Corsets and Gog­gles, Mad Sci­en­tists, and Strange Literature](http://steampunkbible.com/)
   (2011,by [Jeff Van­der­Meer](http://en.wikipedia.org/wiki/Jeff_VanderMeer) with [S. J. Chambers](http://www.goodreads.com/author/show/5347935.S_J_Chambers))
+* [How to Draw Steampunk: Discover the secrets to drawing, painting, and illustrating the curious world of science fiction in the Victorian Age](http://www.goodreads.com/book/show/10398334-how-to-draw-steampunk)
+  (2011,by  Joey Marsocci, Joey Marsocci, Alison DeBlasio, Allison DeBlasio)
 * [1,000 Steampunk Creations: Neo-Victorian Fashion, Gear, and Art](http://www.goodreads.com/book/show/9432169-1-000-steampunk-creations) (2011,by Grymm, Barbe Saint John, Joey Marsocci)
 * [Steampunk III: Steampunk Revolution](http://www.goodreads.com/book/show/15806684-steampunk-iii)
   (2012,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
-* [Kris Kuksi: Divination and Delusion](http://www.goodreads.com/book/show/10460778-kris-kuksi) (2013,by Kris Kuksi, Jon Beinart)
+* [Steampunk: A Complete Guide to Victorian Techno-Fetishism](http://www.goodreads.com/book/show/11580378-steampunk)(2012,by  Vienna Von Schwarz)
+* [Kris Kuksi: Divination and Delusion](http://www.goodreads.com/book/show/10460778-kris-kuksi) (2013,by [Kris Kuksi]((http://kuksi.com), Jon Beinart)
 * [Ada](http://www.amazon.fr/Ada-Masaki-Yamada/dp/233003041X) (2014,by [Masaki Yamada](http://en.wikipedia.org/wiki/Masaki_Yamada))
+
 
 # Games
 
