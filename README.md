@@ -77,10 +77,13 @@ The Steampunk Index
   (2010,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
 * [Tucker Teaches the Clockies to Copulate](http://www.goodreads.com/book/show/13492671-tucker-teaches-the-clockies-to-copulate)
   (2011,by [David Erik Nelson](http://davideriknelson.com/))
+* [The Steam­punk Bible: An Illus­trated Guide to the World of Imag­i­nary Air­ships, Corsets and Gog­gles, Mad Sci­en­tists, and Strange Literature](http://steampunkbible.com/)
+  (2011,by [Jeff Van­der­Meer](http://en.wikipedia.org/wiki/Jeff_VanderMeer) with [S. J. Chambers](http://www.goodreads.com/author/show/5347935.S_J_Chambers))
+* [1,000 Steampunk Creations: Neo-Victorian Fashion, Gear, and Art](http://www.goodreads.com/book/show/9432169-1-000-steampunk-creations) (2011,by Grymm, Barbe Saint John, Joey Marsocci)
 * [Steampunk III: Steampunk Revolution](http://www.goodreads.com/book/show/15806684-steampunk-iii)
   (2012,by [Ann VanderMeer](http://en.wikipedia.org/wiki/Ann_VanderMeer))
-
-* []
+* [Kris Kuksi: Divination and Delusion](http://www.goodreads.com/book/show/10460778-kris-kuksi) (2013,by Kris Kuksi, Jon Beinart)
+* [Ada](http://www.amazon.fr/Ada-Masaki-Yamada/dp/233003041X) (2014,by [Masaki Yamada](http://en.wikipedia.org/wiki/Masaki_Yamada))
 
 # Games
 
