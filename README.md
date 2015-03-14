@@ -25,6 +25,9 @@ The Steampunk Index
 
 # Introduction
 * [Steampunk](http://en.wikipedia.org/wiki/Steampunk) (wiki)
+* [What is Steampunk?](http://www.ministryofpeculiaroccurrences.com/what-is-steampunk/)
+* [What on earth is Steampunk anyway?!](http://gypsypixiepirate.com/2013/04/22/what-on-earth-is-steampunk-anyway/)
+
 
 # Websites
 * [Steampunk](http://www.steampunk.com/) ( An online home for the Steampunk movement in all its manifestations)
@@ -35,6 +38,10 @@ The Steampunk Index
 * [HRM Steampunk](http://hrmsteam.com/)
 * [James Ng Art](http://www.jamesngart.com/)
 * [Steampunk Emporium](http://www.steampunkemporium.com/steam.php)
+* [Steampunk Fashion](http://steamfashion.livejournal.com/)
+* [SteamPod 3.0](http://steampod.org/)
+* [The Steampunk Tree House](http://www.steamtreehouse.com/Home.html)
+* [Steampunk Scholar](http://steampunkscholar.blogspot.com/)
 
 # People
 ## Artist
@@ -106,7 +113,7 @@ The Steampunk Index
 
 # Creations
 * [Corey Wolfe](http://www.coreywolfe.com/steampunk/)
-
+* [Steampunk creations](https://www.pinterest.com/aliehdv/steampunk-creations/)
 
 
 # Games
@@ -155,7 +162,6 @@ The Steampunk Index
 * [How to Create a Steampunk Persona](http://steampunk.wonderhowto.com/how-to/create-steampunk-persona-0138997/)
 * [Steampunk Fashion, Unique Clothing Design](http://cosmeticsideas.com/steampunk-fashion/)
 * [The Best, Coolest & Sexiest Steampunk Clothing & Costumes](http://awayandaway.com/the-best-coolest-sexiest-steampunk-clothing-costumes/)
-* [What on earth is Steampunk anyway?!](http://gypsypixiepirate.com/2013/04/22/what-on-earth-is-steampunk-anyway/)
 * [Get Your Steampunk On!](http://alamedapointantiquesfaire.com/blog/general-info/steampunk-on)
 * [I Never Knew Goggles Could Be So Hot: 30 Beautiful Steampunk Girls](http://www.incredibomb.com/2014/04/i-never-knew-goggles-could-turn-me-on-so-much-30-beautiful-steampunk-girls/)
 * [10 Steampunk Titles You Should Know About](https://inkashlings.wordpress.com/2013/02/14/10-steampunk-titles-you-should-know-about/)
