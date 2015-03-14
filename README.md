@@ -192,3 +192,10 @@ The Steampunk Index
 * [DIY Steampunk Flashdrive (Quick Build)](https://www.youtube.com/watch?v=AekOLGT4Lfw)
 * [How To Make Steampunk Brass Goggles From Foam DIY Pattern Tutorial](https://www.youtube.com/watch?v=4G8vDgr6c9A)
 * [Steampunk Makeup Tutorial ](https://www.youtube.com/watch?v=CiQlNXKKDoM)
+* [How To SteamPunk Anything - Nerf Gun](https://www.youtube.com/watch?v=we0HMFxYziY)
+* [One Day Build, Steampunk Mask](https://www.youtube.com/watch?v=uUxJAkX0Apk)
+
+
+## Music
+* [1 Hour of Steampunk and Futuristic Music](https://www.youtube.com/watch?v=_-fkM4K_26U)
+* [My Steampunk Song Collection](https://www.youtube.com/watch?v=4FsFJznC9s0)
