@@ -19,6 +19,8 @@ The Steampunk Index
   * [Others](#others)
 * [Blog Posts](#blog-posts)
 * [Pinterest](#pinterest)
+* [Videos](#videos)
+  * [DIY](#diy)
 
 
   
@@ -165,6 +167,7 @@ The Steampunk Index
 * [Get Your Steampunk On!](http://alamedapointantiquesfaire.com/blog/general-info/steampunk-on)
 * [I Never Knew Goggles Could Be So Hot: 30 Beautiful Steampunk Girls](http://www.incredibomb.com/2014/04/i-never-knew-goggles-could-turn-me-on-so-much-30-beautiful-steampunk-girls/)
 * [10 Steampunk Titles You Should Know About](https://inkashlings.wordpress.com/2013/02/14/10-steampunk-titles-you-should-know-about/)
+* [Steampunk Costume Ideas](http://www.costume-works.com/steampunk-costume-ideas.html#_)
 
 # Pinterest
 * [Lindsay](https://www.pinterest.com/hot4art/steampunk-art/)
@@ -178,3 +181,14 @@ The Steampunk Index
 * [Steampunk Mask](https://www.pinterest.com/explore/steampunk-mask/)
 * [Masa Shiokawa](https://www.pinterest.com/saltriver1942/steampunk-5-full-contd-to-6/)
 * [AnnaMarie Weyandt](https://www.pinterest.com/mumwitch/steampunk/)
+* [Vintage Steampunk](https://www.pinterest.com/twlight54/vintage-steampunk/)
+* [Kenneth Linge](https://www.pinterest.com/kennethlinge/steampunk-k/)
+* [Steam punk Princess..](https://www.pinterest.com/vintagehappines/steam-punk-princess/)
+
+
+# Videos
+## DIY
+* [Building a Steampunk Dining Table](https://www.youtube.com/watch?v=F_4-LPYX9Dw)
+* [DIY Steampunk Flashdrive (Quick Build)](https://www.youtube.com/watch?v=AekOLGT4Lfw)
+* [How To Make Steampunk Brass Goggles From Foam DIY Pattern Tutorial](https://www.youtube.com/watch?v=4G8vDgr6c9A)
+* [Steampunk Makeup Tutorial ](https://www.youtube.com/watch?v=CiQlNXKKDoM)
