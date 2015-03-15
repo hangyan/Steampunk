@@ -1,7 +1,7 @@
 # Streampunk
 The Steampunk Index
 
-![](https://raw.github.com/hangyan/Steampunk/master/sp.jpg)
+![](https://raw.githubusercontent.com/hangyan/Streampunk/master/sp.jpg)
 
 # Menu
 * [Introduction](#introduction)
